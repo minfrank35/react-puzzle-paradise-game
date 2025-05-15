@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/puzzle-paradise/static/css/main.7ef619d8.css",
+    "main.js": "/puzzle-paradise/static/js/main.691eb705.js",
+    "static/js/453.d8cbf7e2.chunk.js": "/puzzle-paradise/static/js/453.d8cbf7e2.chunk.js",
+    "index.html": "/puzzle-paradise/index.html",
+    "main.7ef619d8.css.map": "/puzzle-paradise/static/css/main.7ef619d8.css.map",
+    "main.691eb705.js.map": "/puzzle-paradise/static/js/main.691eb705.js.map",
+    "453.d8cbf7e2.chunk.js.map": "/puzzle-paradise/static/js/453.d8cbf7e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef619d8.css",
+    "static/js/main.691eb705.js"
+  ]
+}
