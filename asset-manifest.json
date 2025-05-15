@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/puzzle-paradise/static/css/main.7ef619d8.css",
-    "main.js": "/puzzle-paradise/static/js/main.691eb705.js",
-    "static/js/453.d8cbf7e2.chunk.js": "/puzzle-paradise/static/js/453.d8cbf7e2.chunk.js",
-    "index.html": "/puzzle-paradise/index.html",
-    "main.7ef619d8.css.map": "/puzzle-paradise/static/css/main.7ef619d8.css.map",
-    "main.691eb705.js.map": "/puzzle-paradise/static/js/main.691eb705.js.map",
-    "453.d8cbf7e2.chunk.js.map": "/puzzle-paradise/static/js/453.d8cbf7e2.chunk.js.map"
+    "main.css": "/react-puzzle-paradise-game/static/css/main.7ef619d8.css",
+    "main.js": "/react-puzzle-paradise-game/static/js/main.6fc90673.js",
+    "static/js/453.d8cbf7e2.chunk.js": "/react-puzzle-paradise-game/static/js/453.d8cbf7e2.chunk.js",
+    "index.html": "/react-puzzle-paradise-game/index.html",
+    "main.7ef619d8.css.map": "/react-puzzle-paradise-game/static/css/main.7ef619d8.css.map",
+    "main.6fc90673.js.map": "/react-puzzle-paradise-game/static/js/main.6fc90673.js.map",
+    "453.d8cbf7e2.chunk.js.map": "/react-puzzle-paradise-game/static/js/453.d8cbf7e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ef619d8.css",
-    "static/js/main.691eb705.js"
+    "static/js/main.6fc90673.js"
   ]
 }
