@@ -14,9 +14,12 @@ import Leaderboard from './components/Leaderboard';
 import { GameRecordProvider } from './contexts/GameRecordContext';
 
 function App() {
+  // GitHub Pages 배포를 위한 basename 설정
+  const basename = process.env.PUBLIC_URL;
+
   return (
     <GameRecordProvider>
-      <Router>
+      <Router basename={basename}>
         <div className="App">
           <header className="App-header">
             <h1>퍼즐 파라다이스 (Puzzle Paradise)</h1>
